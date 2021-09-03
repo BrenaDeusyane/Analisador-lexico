@@ -1,0 +1,5 @@
+vetor = [1, 3, 5, 7]
+puts vetor[0]
+puts vetor[1]
+puts vetor[2]
+puts vetor[3]

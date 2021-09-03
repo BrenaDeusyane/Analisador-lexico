@@ -1,0 +1,5 @@
+Quadrado = [[1, 2], [3, 4]]
+puts Quadrado [0][0]
+puts Quadrado [0][1]
+puts Quadrado [1][0]
+puts Quadrado [1][1]
